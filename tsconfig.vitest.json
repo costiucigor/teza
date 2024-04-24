@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.app.json",
+  "exclude": [],
+  "compilerOptions": {
+    "lib": ["ES2018"],
+    "types": ["node", "jsdom"]
+  }
+}
